@@ -1,2 +1,2 @@
-# excercíe of artificial intelligence course.
+# exercise of artificial intelligence course.
 # c++ language
